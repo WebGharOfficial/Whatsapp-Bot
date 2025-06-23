@@ -1,0 +1,5 @@
+Which command runs which bot?
+npm run apify-scrape
+→ Runs the Apify Google Maps Scraper, saves business info and phone numbers in CSV format to phone_numbers.txt, and generates personalized messages in custom_messages.txt.
+npm start
+→ Runs the WhatsApp bot. It reads phone_numbers.txt (now with business info), personalizes the message for each business using the template in message.txt, and sends it via WhatsApp.

@@ -1,0 +1,5009 @@
+[
+  {
+    "name": "Nature Club Restaurant",
+    "phone": "+9779841526478",
+    "address": "Q83H+J78, Tokha Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Lumanti Newari Restaurant",
+    "phone": "+9779849954335",
+    "address": "Tokha Rd, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://lumantinewarirestaurant.odoo.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Farm Garden Cafe",
+    "phone": "+9779801277780",
+    "address": "Q8JH+W3C, Tokha, Tokha Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://farmgardencafe.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Marsi Restaurant & Sekuwa Station",
+    "phone": "+97715159549",
+    "address": "Tokha 6, Chowk Grande, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tara's Restro and Cafe",
+    "phone": "+9779857071874",
+    "address": "Bhatkeko pool, 03 Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 10:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Sayabung Restaurant",
+    "phone": "+9779843652175",
+    "address": "8 Tokha Mun, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Newari Food Station",
+    "phone": "+9779823102063",
+    "address": "Bhootkhel, Tokha-03, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Jheer Sekuwa Tokha road",
+    "phone": "+9779843541325",
+    "address": "Dhungedhara, Greenland, Tokha Rd, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "2 to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2 to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2 to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "2 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "The Courtyard Cafe and Beer Garden",
+    "phone": "+9779843726493",
+    "address": "Dhapasi, Tokha-7, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "1:30 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "1:30 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "1:30 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "1:30 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "1:30 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "1:30 to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "1:30 to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Cherry Blossom | Best Cafe in Tokha Kathmandu",
+    "phone": "+9779818241606",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://thecherryblossomcafe.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Top Restaurant",
+    "phone": "+9779851122899",
+    "address": "Q87J+Q43, Tokha Rd, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Newa Lahana, Tokha",
+    "phone": "+9779802355799",
+    "address": "Q89J+G6C, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Matina bhoe chhe",
+    "phone": "+9779742426333",
+    "address": "Q89H+GP5, F082, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "New Sanam and Baudeshwor Newari Restaurant",
+    "phone": "+9779841362157",
+    "address": "Malung, F082, 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Empire Cafe & Restro",
+    "phone": "+9779813582091",
+    "address": "Tokha road Tokha 3, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha pizzeria",
+    "phone": "+9779769367384",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:30 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Blue sky restaurant and bar tokha",
+    "phone": "+9779818399709",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "National JBS Thakali",
+    "phone": "+9779808478921",
+    "address": "10 Tokha Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Kumari organic Restaurant",
+    "phone": "+9779860177720",
+    "address": "Unnamed Road, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 AM to 11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 10:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "The Nest",
+    "phone": "+9779825838944",
+    "address": "Q8GR+7CQ, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Jigri Sekuwa - Tokha",
+    "phone": "+9779805014006",
+    "address": "Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://jigri.laviehospitality.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Kukhuro by Grill King",
+    "phone": "+9779866566807",
+    "address": "Q83G+FXM, Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "12 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Dream Palace Resort",
+    "phone": "+97715159723",
+    "address": "3 Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://dreampalace.com.np/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Hotel Shambala",
+    "phone": "+97714650351",
+    "address": "P8VP+MRM, Bansbari Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.shambalahotel.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "Warm rooms & suites in a down-to-earth hotel offering a restaurant, a spa & a rooftop infinity pool."
+  },
+  {
+    "name": "Royal Astoria Hotel",
+    "phone": "+97714376845",
+    "address": "Opposite of CG Hills Housing, Khadka Bhadrakali Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.royalastoriahotel.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "Warm quarters in a casual hotel offering a restaurant, plus a bar, garden & free Wi-Fi."
+  },
+  {
+    "name": "Pabera Heritage Boutique Hotel",
+    "phone": "+97714374155",
+    "address": "04 Rudreshwor Chowk, Budhanilkantha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.hotelpabera.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "Laid-back hotel offering breakfast & an elegant restaurant, plus a rooftop pool with mountain views."
+  },
+  {
+    "name": "Mandala Norling Lords Prime",
+    "phone": "+9779802390095",
+    "address": "Ward, 4 Ring Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.lordshotels.com/hotels/mandala-norling-lords-prime",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Nirvana Home. Hotel & Suites, Kathmandu",
+    "phone": "+9779808114025",
+    "address": "Bansbari Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://nirvanahome.nepal-hotel.top/en/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Shivapuri Heights Cottage",
+    "phone": "+9779846232271",
+    "address": "Shivapuri hills, Budhanilkantha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.shivapuricottage.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "Upscale hotel offering rooms, suites & a cottages, plus a spa area & a plunge pool."
+  },
+  {
+    "name": "Sampada Garden Hotel Pvt. Ltd",
+    "phone": "+97714002310",
+    "address": "3 Rani Devi Marg, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.sampadagardenhotel.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "Relaxed hotel featuring a restaurant, a bar & an organic coffee shop, as well as a garden."
+  },
+  {
+    "name": "Regenta Place Sabrina",
+    "phone": "+97714372451",
+    "address": "Ganesh Chowk, Budhanilkantha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://regentarewards.com/hotel/regenta-place-sabrina-kathmandu",
+    "email": "N/A",
+    "hours": [],
+    "description": "Unpretentious hotel featuring a gym, a rooftop infinity pool & a sauna, plus dining & a bar."
+  },
+  {
+    "name": "Hotel Shanker - Palatial Heritage Kathmandu",
+    "phone": "+97714510151",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.shankerhotel.com.np/",
+    "email": "N/A",
+    "hours": [],
+    "description": "Posh hotel featuring an outdoor pool, 2 restaurants & a spa, plus 2 bars & complimentary Wi-Fi."
+  },
+  {
+    "name": "Ramada by Wyndham Kathmandu Dhumbarahi",
+    "phone": "+97714377298",
+    "address": "Dhumbarahi Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.ramadakathmandudhumbarahi.com/?CID=LC:wmcic5n98gs1g0r:58491&iata=00093796",
+    "email": "N/A",
+    "hours": [],
+    "description": "Polished quarters, some with city views, in an upmarket hotel offering an outdoor pool & dining."
+  },
+  {
+    "name": "Omana Hotel",
+    "phone": "+9779851230138",
+    "address": "Buddhi Sagar Marg, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Hotel Odaan",
+    "phone": "+9779841417171",
+    "address": "Chakrapath Bansbari Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Sunshine Boutique Hotel",
+    "phone": "+97714539741",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.sunshinehotelnepal.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Lemon tree Apartment",
+    "phone": "+9779841866802",
+    "address": "P8RC+FP6, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.lemontree-apartment.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Meraki Wellness Retreat",
+    "phone": "+9779801234900",
+    "address": "Q9Q8+CGX, Budhanilkantha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://merakiwellness.life/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "The Museum Bed and Breakfast",
+    "phone": "+9779813931936",
+    "address": "Panipokhari, 100 meters south of President's House (Le Sherpa Restaurant), Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Kathmandu Grand Hotel",
+    "phone": "+97714700694",
+    "address": "Chaksibari, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.kathmandugrandhotel.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Hotel Balgopal",
+    "phone": "+9779866296088",
+    "address": "Gongabu Marg, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.booking.com/hotel/np/balgopal.en-gb.html?aid=304142&checkin=2024-04-02&checkout=2024-04-03&dest_id=9992517&dest_type=hotel&group_adults=2&group_children=0&label=gen173nr-1FCAEoggI46AdIM1gEaKsBiAEBmAEJuAEYyAEM2AEB6AEB-AELiAIBqAIEuAK4hLCwBsACAdICJGYwYmRiM2U4LWRkMmEtNDcwZi1hNzA1LWJkYmVkYzU3ZDllMdgCBuACAQ-Share-1Ug55P%401712063173&no_rooms=1&req_adults=2&req_children=0",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Nanglo Sekuwa Ghar",
+    "phone": "+9779768921967",
+    "address": "Bhutkhel Park, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Food Station, Dhaneshwor, Baniyatar Rd11 Tokha.",
+    "phone": "+9779706754463",
+    "address": "11 Baniyatar Rd, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 11:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 11:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 11:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 11:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 11:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 11:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Kasaudi Thakali Restaurant",
+    "phone": "+97715159324",
+    "address": "In front of Grande international hospital, 6 Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.kasaudithakali.org/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 11 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Royal Dine Resturant",
+    "phone": "+9779841606262",
+    "address": "Q87H+3QQ, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha View Resort",
+    "phone": "+9779849614570",
+    "address": "Q88G+7QM, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Piro Khursani, Tokha Branch",
+    "phone": "+9779709299809",
+    "address": "Tokha Rd, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Syanko Katti Roll,Tokha 06, Grande",
+    "phone": "+97715914539",
+    "address": "Grande, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://syankorolls.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha",
+    "phone": "+9779849352692",
+    "address": "Q88J+V55, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Bhat-Bhateni Superstore - Tokha",
+    "phone": "+97715912700",
+    "address": "P8XG+Q2C, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 8:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Hamro Stores",
+    "phone": "+97714650959",
+    "address": "P8XH+FQ4, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha kitchen store",
+    "phone": "+9779828164487",
+    "address": "Tokha, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Mahadevtar General Store",
+    "phone": "+9779851103571",
+    "address": "P8QC+Q97, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "GODGIFTERS",
+    "phone": "+9779818224590",
+    "address": "Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Hamro Karki Khadya Store",
+    "phone": "+97714363211",
+    "address": "P8VH+44M, Tilanatar Marg, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "5 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 AM to 9:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Jigen Store, Malung_1 Tokha Kathmandu",
+    "phone": "+9779841055454",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "1 to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "1 to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "1 to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "1 to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "1 to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "नयाँ दाहाल स्टोर",
+    "phone": "+97714387195",
+    "address": "Tokha 8, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "A Level Department Store",
+    "phone": "+9779808739939",
+    "address": "A level department store, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 to 10 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Hi-Way Style",
+    "phone": "+9779849677671",
+    "address": "P8P9+FJR, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Sarita Store",
+    "phone": "+9779851019663",
+    "address": "Samakhushi Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Gongabu Supermarket Pvt. Ltd.",
+    "phone": "+97714956798",
+    "address": "Gongabu Tokha-11, Tarakeshwar 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:30 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Style Fashion",
+    "phone": "+9779843184266",
+    "address": "P8VJ+4C5, Tokha 5, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 8:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Readers Hub",
+    "phone": "+9779745328087",
+    "address": "P8RC+P4W, Tokha Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://readershub.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Hotel Sara's Backpackers (P) Ltd.",
+    "phone": "+9779851207616",
+    "address": "11 Baniyatar Bridge, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "The Dragon's Farm",
+    "phone": "+9779851400142",
+    "address": "F082, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://thedragonsfarm.waiterio.com/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Holiday Home",
+    "phone": "+97714424268",
+    "address": "Q86G+XHW, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Hotel Robot, Samakushi",
+    "phone": "+97715925399",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.robothospitality.com.np/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "The Samrat Palace",
+    "phone": "+9779851373050",
+    "address": "Nikhil, Nepal Telecom, Near, Mitranagar, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.facebook.com/thesamratpalace/",
+    "email": "N/A",
+    "hours": [],
+    "description": "Laid-back hotel offering a rooftop terrace & a 24-hour restaurant, plus a spa with a sauna."
+  },
+  {
+    "name": "Evergreen Resort",
+    "phone": "+9779851106735",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Lotus Club Boutique Hotel",
+    "phone": "+9779820113821",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Green Valley Resort",
+    "phone": "+97715248092",
+    "address": "Shivapuri 09, Dandagaun, Budhanilkantha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.greenvalley.com.np/",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Hotel Thousand And All Hospitality",
+    "phone": "+9779762278028",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "SPORTS ZONE",
+    "phone": "+9779841747595",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 7:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Dhaneshwor mart",
+    "phone": "+9779860204849",
+    "address": "Q839+9G6, Dhaneshwor Chowk, Baniyatar Rd, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://g.page/dhaneshwor-mart?gm",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Indreni Traders Pvt Ltd",
+    "phone": "+97715110482",
+    "address": "Q85H+QG6, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Printing Station",
+    "phone": "+9779808117000",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Swastika Enterprises Tokha",
+    "phone": "+9779842793020",
+    "address": "Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Jacket House( Kharibot)",
+    "phone": "+9779808609336",
+    "address": "P8RC+4CX, Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 7 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "(रक्सी पसल )MCS LIQUOR SHOP",
+    "phone": "+9779803155578",
+    "address": "Malung Jhor, tokha municipality, Kathmandu 44608, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.google.com/search?q=MCS+STORES+LIQUOR+SHOP+%28%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%80+%E0%A4%AA%E0%A4%B8%E0%A4%B2+%29&source=lmns&authuser=0&bih=758&biw=412&prmd=imvn&hl=en&sa=X&ved=2ahUKEwj8iKb81-H2AhV8k9gFHSfGCZoQ_AUoAHoECAAQAw",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:30 AM to 9:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Blueberry Mart",
+    "phone": "+97715110346",
+    "address": "Tokha Rd, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "BD mart",
+    "phone": "+9779843601217",
+    "address": "Q869+95F, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Store",
+    "phone": "+9779767245422",
+    "address": "Q84H+JCX, Tokha Rd, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Rigam Store",
+    "phone": "+9779841218906",
+    "address": "Q889+PXC, Unnamed Road, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Adarsh store tokha genesthan",
+    "phone": "+9779818175078",
+    "address": "Q8HJ+HPR, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6:25 AM to 7:05 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:25 AM to 7:05 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:25 AM to 7:05 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:25 AM to 7:05 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:25 AM to 7:05 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:25 AM to 7:05 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:25 AM to 7:05 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Nucche Tokha Chaku",
+    "phone": "+9779849352692",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "New Thapa Store",
+    "phone": "+9779863911055",
+    "address": "P8XJ+VMG, Tokha, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Gairigaun, Tokha-8",
+    "phone": "+9779841510105",
+    "address": "P8XC+528, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "थापा स्टोर्स",
+    "phone": "+9779841586479",
+    "address": "Q83P+32M, Dhapasi Marg, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2:30 PM, 4:30 to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Indira store",
+    "phone": "+9779813205107",
+    "address": "shuva homes Near grandy hospital, Tokha Rd, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Kishan Ko Bazar",
+    "phone": "+9779841010363",
+    "address": "P8WF+47X, Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Ishan General Suppliers (Plastic Wholesale)",
+    "phone": "+9779801031822",
+    "address": "Tokha - 7, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Lulu Mini Mart",
+    "phone": "+9779809680719",
+    "address": "Sahu Hanuman Prasad road, Kathmandu 44600,nepal, Tokha -11, Baniyatar, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "एस. पि. खाद्य एण्ड बिबिध स्टोर",
+    "phone": "+9779843098958",
+    "address": "बखुन्दोल चोक, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Kimty' S Collection",
+    "phone": "+9779851088836",
+    "address": "P8VJ+826, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "KTM CTY - Tokha",
+    "phone": "+9779806393782",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.ktmcty.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "The Anuska store",
+    "phone": "+9779851346142",
+    "address": "Khowate Bishnumati tole, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "सुबि बस्त्रालय",
+    "phone": "+9779808039552",
+    "address": "TOKHA-11 ,GANESHASTHAN ,BANIYATAR ROAD Tokha, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Om Mangalam Store Tokha",
+    "phone": "+9779849209776",
+    "address": "Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "khatiwada Store",
+    "phone": "+9779841395425",
+    "address": "P8Q7+RH3 Ganesthan, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:30 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha ganeshthan",
+    "phone": "+9779849986785",
+    "address": "Q89P+JW, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Land Handicraft & Uniform House",
+    "phone": "+9779851025901",
+    "address": "Tokha, Jhudol, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Happy Hours Toy Store - Wholesale Maharajgunj Kathmandu",
+    "phone": "+9779813683609",
+    "address": "Maharajgunj Sadak, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.happyhours.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:45 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:30 AM to 7:15 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:45 AM to 7:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Gorkhali vareity Shop",
+    "phone": "+9779745711658",
+    "address": "Q899+P49 Bhatkeko Pul, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7:18 AM to 8:18 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:18 AM to 8:18 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:18 AM to 8:18 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:18 AM to 8:18 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:18 AM to 8:18 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:18 AM to 8:18 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:18 AM to 8:18 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha TradeLink",
+    "phone": "+9779851176206",
+    "address": "Tokha Municipality 02, Kathmandu 44608, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://tokhatradelink.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "BizSewa",
+    "phone": "+9779804495818",
+    "address": "Bag Bazar Sadak, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.bizsewa.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Biotech Business Concern",
+    "phone": "+9779851181090",
+    "address": "Q84C+3HM, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Construction Pvt. Ltd.",
+    "phone": "+9779851229141",
+    "address": "Vill Chok Tokha Municipalit 02, Tokha, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Mega Group of Company Pvt Ltd",
+    "phone": "+9779841423882",
+    "address": "Tokha Panchetar chowk, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Consult Hub",
+    "phone": "+9779841118450",
+    "address": "Tokha-3, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Kathmandu Business Consultants",
+    "phone": "+9779802348582",
+    "address": "Chundevi, 1474 Lamtangin Marg, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://kbc.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Destination Nepal, Dhapasi Height - Tokha-4",
+    "phone": "+9779860753786",
+    "address": "Dhapasi Height, Tokha-4, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "Prajna World Tech- Digital Marketing Company",
+    "phone": "+97714973666",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Arogya Bhawan Works Pvt. Ltd.",
+    "phone": "+97714771643",
+    "address": "Dhapasi 09, Tokha, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.abw.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "InfoGrow Nepal Pvt. Ltd",
+    "phone": "+9779840185725",
+    "address": "Greenland, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 6 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Juju cafe",
+    "phone": "+9779849084315",
+    "address": "Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Bakery House",
+    "phone": "+97715110433",
+    "address": "Bhutkhel Park, Tokha, 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Urban Roof Cafe Under Khichik Cafe Management",
+    "phone": "+9779708466968",
+    "address": "Milan Tole, Tokha Road, Kathmandu 11172, Kathmandu 00977, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 8:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Aagantuk Restro & Cafe आगन्तुक रेस्ट्रो एन्ड क्याफे",
+    "phone": "+9779813197441",
+    "address": "P8P9+48G, Tokha Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Spot Cafe & Restro",
+    "phone": "+9779813572278",
+    "address": "Samakhushi - Ranibari Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://spotcafe.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Dreams Cafe",
+    "phone": "+9779851111924",
+    "address": "Sanlakhusi Tole, Sangla Road, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Mystic Mokka Coffee",
+    "phone": "+9779814122191",
+    "address": "Q82G+H97, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "OBC Cafe",
+    "phone": "+9779851315549",
+    "address": "P8R7+XVV, Manamaiju Bridge, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Local Cafe",
+    "phone": "+9779803049449",
+    "address": "P7RX+MV4, Lakhapaatal Marg, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "5 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Radung Cafe",
+    "phone": "+97714988406",
+    "address": "P8P9+M33, सामाखुसी चक्रपथ ट्राक उत्तर, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 11:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Golchha Group",
+    "phone": "+97715909999",
+    "address": "Narayanchaur, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://golchhagroup.com.np/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 6 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Batas M.A.W Commercial Vehicles Pvt. Ltd.",
+    "phone": "+9779802311654",
+    "address": "Tangal Chowk, Laxmi Narayan Temple, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.batasmaw.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 5:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Civil Business Holding's (CBH Nepal)",
+    "phone": "+97714350596",
+    "address": "Samakhushi-29, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha bhagawati saving and credit Co-operative ltd",
+    "phone": "+97715110396",
+    "address": "Q89J+H8P, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 3 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 3 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 3 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 3 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 3 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 3 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "NDH Spices & Snacks Manufacturer Company HEAD-OFFICE Chabahil Kathmandu Nepal",
+    "phone": "+9779851087422",
+    "address": "Kathmandu 44602, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "http://www.ndhmasala.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 5:30 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "MV Dugar Group (Head Office)",
+    "phone": "+97714414104",
+    "address": "P87H+MQW, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://mvdugar.com/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 6 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Clock b Business Technology",
+    "phone": "+97714526267",
+    "address": "Phurtiman Marg, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.clockb.tech/",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 5 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "North Cafe & Bar",
+    "phone": "+97714984463",
+    "address": "Chowk गोंगबुँ चक्रपथ ट्राक उत्तर, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Café Jamghat",
+    "phone": "+9779818162171",
+    "address": "26, Samakhusi, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "7states Junction Organic Cafe",
+    "phone": "+9779865471557",
+    "address": "Unnamed Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Bro Bakery Cafe",
+    "phone": "+9779801213850",
+    "address": "बशुन्धरा चक्रपथ ट्राक उत्तर, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Fud cafe",
+    "phone": "+9779808210354",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6 AM to 8 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Green Chilli Restaurant and Cafe",
+    "phone": "+97715159325",
+    "address": "Q82G+WMR, Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Friendship Cafe",
+    "phone": "+97714953240",
+    "address": "Basundhara, Tokha-05, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Batuki cafe",
+    "phone": "+9779803247724",
+    "address": "P8X9+36H Jalupa chowk, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Kanjirowa Restro & Bar",
+    "phone": "+9779842985547",
+    "address": "Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "D2 Sekuwa and Katiya House",
+    "phone": "+9779768449333",
+    "address": "Q83H+F36, Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Hookah69",
+    "phone": "+9779812348159",
+    "address": "Greenland chowk, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "https://www.instagram.com/p/Cgqri8auhRM/?igshid=YmMyMTA2M2Y=",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 11 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Naurikot Thakali and Coffee",
+    "phone": "+9779851029833",
+    "address": "7 Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [],
+    "description": "N/A"
+  },
+  {
+    "name": "MAZE",
+    "phone": "+9779869531796",
+    "address": "P8WH+556, Unnamed Road, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "GreenLand Cafe and Khaja Ghar",
+    "phone": "+97714381202",
+    "address": "P8WG+H82, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Dreams tandoori restaurant & roof top cafe",
+    "phone": "+97714955483",
+    "address": "Ganesthan Ward 10 tokha, Ganeshthan 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Tokha Newari Kitchen",
+    "phone": "+9779849511342",
+    "address": "P8P9+7XP, रिङ्ग रोड, Tokha 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Piro Sinko Cafe",
+    "phone": "+9779700922780",
+    "address": "Prayasnagar, Tokha Rd, Kathmandu 44600, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  },
+  {
+    "name": "Jharke Thal Khaja Ghar",
+    "phone": "+9779823335500",
+    "address": "Baniyatar, Gairigaon Chowk Tokha-8, Kathmandu, Nepal",
+    "category": "Business",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "website": "No website",
+    "email": "N/A",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "description": "N/A"
+  }
+]
