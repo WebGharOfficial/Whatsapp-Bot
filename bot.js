@@ -30,7 +30,7 @@ class WhatsAppBot {
         this.client.on('qr', (qr) => {
             console.log('QR Code received, scan it with your WhatsApp:');
             console.log('Note: If you see this repeatedly, try deleting the .wwebjs_auth folder and restarting');
-            qrcode.generate(qr, { small: true });
+            qrcode.generate(qr, { small: true, scale: 1 });
         });
 
         // Client is ready
@@ -56,6 +56,61 @@ class WhatsAppBot {
         this.client.on('loading_screen', (percent, message) => {
             console.log(`🔄 Loading: ${percent}% - ${message}`);
         });
+
+        // Handle incoming messages (button responses)
+        this.client.on('message', async (message) => {
+            const userResponse = message.body.trim();
+            
+            if (userResponse === 'Yes I am interested') {
+                await this.handleInterestResponse(message);
+            } else if (userResponse === 'Visit Website') {
+                await this.handleWebsiteResponse(message);
+            }
+        });
+    }
+
+    // Handle "Yes I am interested" button response
+    async handleInterestResponse(message) {
+        try {
+            const response = `Thank you for your interest! 🙏
+
+I'm excited to help you create a beautiful website for your business. 
+
+Let me know:
+• What type of business you have
+• Any specific features you'd like
+• Your budget range
+
+I'll get back to you with a customized proposal within 24 hours.
+
+Best regards,
+Team WebGhar 🌐`;
+
+            await message.reply(response);
+            console.log(`✅ Interest response sent to ${message.from}`);
+        } catch (error) {
+            console.error('❌ Failed to send interest response:', error.message);
+        }
+    }
+
+    // Handle "Visit Website" button response
+    async handleWebsiteResponse(message) {
+        try {
+            const response = `🌐 Visit our website: https://webgharofficial.github.io/WebGhar/
+
+Here you can:
+• See our portfolio of work
+• Learn about our services
+• View pricing packages
+• Contact us directly
+
+Feel free to explore and let me know if you have any questions! 😊`;
+
+            await message.reply(response);
+            console.log(`✅ Website response sent to ${message.from}`);
+        } catch (error) {
+            console.error('❌ Failed to send website response:', error.message);
+        }
     }
 
     // Read phone numbers from file
